@@ -1,0 +1,29 @@
+body {
+    background: darkgray;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+header {
+    margin-top: 2%;
+}
+
+img, video {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+    height: 200px;
+}
+
+img.icon, .picon{
+    margin-bottom: 0px;
+    width: 20px;
+    height: 20px;
+}
+a.acontact, .pacontact{
+    margin-top: 5px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
